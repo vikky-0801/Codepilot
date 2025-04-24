@@ -1,0 +1,10 @@
+Python
+streamlit
+langchain
+langchain_groq
+dotenv
+os
+HuggingFace
+embedding
+FAISS
+RAG
